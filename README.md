@@ -15,10 +15,10 @@ This command-line application generates high-quality, professional README.md fil
 To install and use this README generator, follow these steps:
 1. Clone this repository to your local machine.
 2. Navigate to the project's directory.
-3. Open your terminal and run the following command:
+3. Open your terminal and run the following command: npm install
 
 ## Usage
-1. After installing the application, run it by executing:
+1. After installing the application, run it by executing: node index.js
 2. You will be prompted to enter various details about your project, including the title, description, installation instructions, usage information, contribution guidelines, and test instructions.
 3. Choose a license from the provided options.
 4. Enter your GitHub username and email address when prompted.
@@ -32,7 +32,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 If you would like to contribute to this project, please follow the [Contributor Covenant](https://www.contributor-covenant.org/).
 
 ## Tests
-To test the application, run:
+To test the application, run: npm test
 
 ## Questions
 If you have any questions or need further assistance, please feel free to reach out to me:
